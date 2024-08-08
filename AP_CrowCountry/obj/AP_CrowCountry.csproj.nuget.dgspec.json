@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Chandler81\\Documents\\GitHub\\AP_CrowCountry\\AP_CrowCountry\\AP_CrowCountry.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Chandler81\\Documents\\GitHub\\AP_CrowCountry\\AP_CrowCountry\\AP_CrowCountry.csproj": {
+      "version": "0.0.1",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Chandler81\\Documents\\GitHub\\AP_CrowCountry\\AP_CrowCountry\\AP_CrowCountry.csproj",
+        "projectName": "APCrowCountry",
+        "projectPath": "C:\\Users\\Chandler81\\Documents\\GitHub\\AP_CrowCountry\\AP_CrowCountry\\AP_CrowCountry.csproj",
+        "packagesPath": "C:\\Users\\Chandler81\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Chandler81\\Documents\\GitHub\\AP_CrowCountry\\AP_CrowCountry\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Chandler81\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Chandler81\\Documents\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Archipelago.MultiClient.Net": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\Chandler81\Documents\GitHub\AP_CrowCountry\AP_CrowCountry\obj\Debug\AP_CrowCountry.csproj.AssemblyReference.cache
+C:\Users\Chandler81\Documents\GitHub\AP_CrowCountry\AP_CrowCountry\obj\Debug\AP_CrowCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandler81\Documents\GitHub\AP_CrowCountry\AP_CrowCountry\obj\Debug\AP_CrowCountry.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Crow Country\BepInEx\plugins\APCrowCountry\APCrowCountry.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Crow Country\BepInEx\plugins\APCrowCountry\APCrowCountry.dll
+C:\Program Files (x86)\Steam\steamapps\common\Crow Country\BepInEx\plugins\APCrowCountry\APCrowCountry.pdb
+C:\Users\Chandler81\Documents\GitHub\AP_CrowCountry\AP_CrowCountry\obj\Debug\AP_CrowCountry.csproj.CopyComplete
+C:\Users\Chandler81\Documents\GitHub\AP_CrowCountry\AP_CrowCountry\obj\Debug\APCrowCountry.dll
+C:\Users\Chandler81\Documents\GitHub\AP_CrowCountry\AP_CrowCountry\obj\Debug\APCrowCountry.pdb

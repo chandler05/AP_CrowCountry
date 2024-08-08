@@ -1,0 +1,110 @@
+[
+    {
+        "apid": 510202400,
+        "pickup": true,
+        "region": "Roadside",
+        "id": "1"
+    },
+    {
+        "apid": 510202401,
+        "pickup": true,
+        "region": "Entrance",
+        "id": "2"
+    },
+    {
+        "apid": 510202402,
+        "pickup": false,
+        "region": "Entrance",
+        "id": "Trash can 1"
+    },
+    {
+        "apid": 510202403,
+        "pickup": true,
+        "region": "Station Square",
+        "id": "3"
+    },
+    {
+        "apid": 510202404,
+        "pickup": true,
+        "region": "Station Square",
+        "id": "5"
+    },
+    {
+        "apid": 510202405,
+        "pickup": true,
+        "region": "Station Square",
+        "id": "4"
+    },
+    {
+        "apid": 510202406,
+        "pickup": true,
+        "region": "Station Square",
+        "id": "97"
+    },
+    {
+        "apid": 510202407,
+        "pickup": true,
+        "region": "Station Square",
+        "id": "0"
+    },
+    {
+        "apid": 510202408,
+        "pickup": false,
+        "region": "Station Square",
+        "id": "Trash can 2"
+    },
+    {
+        "apid": 510202409,
+        "pickup": false,
+        "region": "Station Square",
+        "id": "Trash can 3"
+    },
+    {
+        "apid": 510202410,
+        "pickup": false,
+        "region": "Station Square",
+        "id": "Wooden Crate 0"
+    },
+    {
+        "apid": 510202411,
+        "pickup": false,
+        "region": "Station Square",
+        "id": "Wooden Crate 1"
+    },
+    {
+        "apid": 510202412,
+        "pickup": false,
+        "region": "Station Square",
+        "id": "vending machine set"
+    },
+    {
+        "apid": 510202413,
+        "pickup": true,
+        "region": "Toilet",
+        "id": "6"
+    },
+    {
+        "apid": 510202414,
+        "pickup": true,
+        "region": "Fairy Forest",
+        "id": "12"
+    },
+    {
+        "apid": 510202415,
+        "pickup": true,
+        "region": "Fairy Forest",
+        "id": "13"
+    },
+    {
+        "apid": 510202416,
+        "pickup": true,
+        "region": "Fairy Forest",
+        "id": "14"
+    },
+    {
+        "apid": 510202417,
+        "pickup": true,
+        "region": "Fairy Forest",
+        "id": "0"
+    }
+]
